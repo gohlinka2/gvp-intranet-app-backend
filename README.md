@@ -1,2 +1,19 @@
 # gvp-intranet-app-backend
-Backend k aplikaci GVP Intranet pro Android, viz repo gvp-intranet-app
+PHP Backend k aplikaci GVP Intranet pro Android. Pro zobrazení hlavní dokumentace a kódu projektu navštivte repo [gvp-intranet-app](https://github.com/gohlinka2/gvp-intranet-app).
+# Licence 
+```
+Copyright 2019 František Hlinka
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+Licenci Apache Licence 2.0 lze zobrazit v souboru [LICENSE](LICENSE).
